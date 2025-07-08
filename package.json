@@ -1,0 +1,24 @@
+{
+  "name": "refui-todomvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "packageManager": "pnpm@10.12.4",
+  "dependencies": {
+    "refui": "^0.5.1",
+    "todomvc-app-css": "^2.4.3"
+  },
+  "devDependencies": {
+    "refurbish": "^0.1.5",
+    "vite": "^7.0.3"
+  }
+}
