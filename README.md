@@ -2,6 +2,8 @@
 
 A TodoMVC application built using the [rEFui](https://github.com/SudoMaker/refui), demonstrating its core concepts and reactivity model.
 
+View it [live](https://redomvc.netlify.app)
+
 ## Features
 
 - Add new todo items
